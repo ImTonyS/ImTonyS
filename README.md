@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Trilingual programmer, always looking for improving myself with new tech and co-working, expressing and listening ideas to create new solutions. 
+
+
+
 🔭 I’m currently working on building my own startup, I'm nearer day by day.
 
 
