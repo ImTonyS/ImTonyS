@@ -1,23 +1,8 @@
-# Hi y'all 👋, It's Tony Villaverde
+## Hi y'all 👋, It's Tony Villaverde
 
-<!--
-**ImTonyS/ImTonyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Trilingual programmer, always looking for improving myself with new tech and co-working, expressing and listening ideas to create new solutions.*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Trilingual programmer, always looking for improving myself with new tech and co-working, expressing and listening ideas to create new solutions. 
-
-
+[https://www.instagram.com/tony_villaverde/?hl=es-la] (file:///C:/Users/tonyv/OneDrive/Proyectos/ImTonyS/ImTonyS/Untitled-1.jpg)
 
 🔭 I’m currently working on building my own startup, I'm nearer day by day.
 
